@@ -1,0 +1,16 @@
+PODS:
+  - JAMacros (0.1.0)
+
+DEPENDENCIES:
+  - JAMacros (from `../`)
+
+EXTERNAL SOURCES:
+  JAMacros:
+    :path: ../
+
+SPEC CHECKSUMS:
+  JAMacros: eb1d16f72aeea13362bbf62cc4efc1de5fe369b8
+
+PODFILE CHECKSUM: 89e9f892db558383cfde0d630cac1e329faf024e
+
+COCOAPODS: 1.3.1

@@ -1,0 +1,6 @@
+framework module JAMacros {
+  umbrella header "JAMacros-umbrella.h"
+
+  export *
+  module * { export * }
+}

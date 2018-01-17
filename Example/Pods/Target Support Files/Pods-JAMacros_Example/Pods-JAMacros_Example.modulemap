@@ -1,0 +1,6 @@
+framework module Pods_JAMacros_Example {
+  umbrella header "Pods-JAMacros_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}
