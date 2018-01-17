@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'JAMacros_Example' do
+  pod 'JAMacros', :path => '../'
+
+  target 'JAMacros_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
