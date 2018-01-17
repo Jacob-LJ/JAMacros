@@ -21,11 +21,11 @@ Pod::Spec.new do |s|
 常用的宏库
                        DESC
 
-  s.homepage         = 'https://github.com/312846421@qq.com/JAMacros'
+  s.homepage         = 'https://github.com/Jacob-LJ/JAMacros'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { '312846421@qq.com' => '312846421@qq.com' }
-  s.source           = { :git => 'https://github.com/312846421@qq.com/JAMacros.git', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/Jacob-LJ/JAMacros.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '8.0'
